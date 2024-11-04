@@ -7,7 +7,7 @@ Este proyecto captura imágenes desde la cámara durante 10 segundos, tomando un
 La estructura de carpetas es la siguiente:
 
 proyecto_deteccion/ │ ├── deteccion.py # Script de Python para capturar y procesar fotos ├── htdocs/ # Carpeta de XAMPP │ ├── index.html # Página principal en HTML │ ├── css/ │ │ └── styles.css # Estilos CSS │ ├── js/ │ │ └── scripts.js # Lógica de JavaScript │ ├── captures/ # Carpeta para almacenar los fotogramas │ └── data.json # Archivo JSON para guardar datos de detección └── .gitignore
-![Tree](https://github.com/user-attachments/assets/7aaa1bb2-0c3b-4abf-ad26-23913503cf2d)
+
 
 
 ## Requisitos

@@ -9,6 +9,7 @@ La estructura de carpetas es la siguiente:
 proyecto_deteccion/ │ ├── deteccion.py # Script de Python para capturar y procesar fotos ├── htdocs/ # Carpeta de XAMPP │ ├── index.html # Página principal en HTML │ ├── css/ │ │ └── styles.css # Estilos CSS │ ├── js/ │ │ └── scripts.js # Lógica de JavaScript │ ├── captures/ # Carpeta para almacenar los fotogramas │ └── data.json # Archivo JSON para guardar datos de detección └── .gitignore
 
 
+![Tree](https://github.com/user-attachments/assets/4689f5e1-a0ad-4632-9c74-988f621cac00)
 
 ## Requisitos
 

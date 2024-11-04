@@ -1,0 +1,177 @@
+[
+    {
+        "image_path": "htdocs/captures\\captured_frame_0.jpg",
+        "timestamp": 1730671595.00643
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_1.jpg",
+        "timestamp": 1730671596.0275252
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_2.jpg",
+        "timestamp": 1730671597.0674026
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_3.jpg",
+        "timestamp": 1730671598.0936255
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_4.jpg",
+        "timestamp": 1730671599.1418593
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_5.jpg",
+        "timestamp": 1730671600.1584706
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_6.jpg",
+        "timestamp": 1730671601.1763859
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_7.jpg",
+        "timestamp": 1730671602.2259533
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_8.jpg",
+        "timestamp": 1730671603.265411
+    },
+    {
+        "image_path": "htdocs/captures\\captured_frame_9.jpg",
+        "timestamp": 1730671604.282112
+    },
+    {
+        "session_folder": "htdocs/captures\\session_20241103_205948",
+        "captures": [
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_0.jpg",
+                "timestamp": 1730685589.658373
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_1.jpg",
+                "timestamp": 1730685590.6736069
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_2.jpg",
+                "timestamp": 1730685591.6984024
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_3.jpg",
+                "timestamp": 1730685592.718995
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_4.jpg",
+                "timestamp": 1730685593.7335305
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_5.jpg",
+                "timestamp": 1730685594.7493315
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_6.jpg",
+                "timestamp": 1730685595.765169
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_7.jpg",
+                "timestamp": 1730685596.7809415
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_8.jpg",
+                "timestamp": 1730685597.7968774
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_205948\\captured_frame_9.jpg",
+                "timestamp": 1730685598.8187525
+            }
+        ]
+    },
+    {
+        "session_folder": "htdocs/captures\\session_20241103_215135",
+        "captures": [
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_0.jpg",
+                "timestamp": 1730688696.7272382
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_1.jpg",
+                "timestamp": 1730688697.7438798
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_2.jpg",
+                "timestamp": 1730688698.766858
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_3.jpg",
+                "timestamp": 1730688699.7861872
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_4.jpg",
+                "timestamp": 1730688700.8009655
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_5.jpg",
+                "timestamp": 1730688701.8188846
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_6.jpg",
+                "timestamp": 1730688702.845538
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_7.jpg",
+                "timestamp": 1730688703.864207
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_8.jpg",
+                "timestamp": 1730688704.8841379
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215135\\captured_frame_9.jpg",
+                "timestamp": 1730688705.9012613
+            }
+        ]
+    },
+    {
+        "session_folder": "htdocs/captures\\session_20241103_215157",
+        "captures": [
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_0.jpg",
+                "timestamp": 1730688718.6341887
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_1.jpg",
+                "timestamp": 1730688719.6505075
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_2.jpg",
+                "timestamp": 1730688720.6748955
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_3.jpg",
+                "timestamp": 1730688721.699869
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_4.jpg",
+                "timestamp": 1730688722.7182224
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_5.jpg",
+                "timestamp": 1730688723.7355099
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_6.jpg",
+                "timestamp": 1730688724.7541091
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_7.jpg",
+                "timestamp": 1730688725.7707884
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_8.jpg",
+                "timestamp": 1730688726.7910948
+            },
+            {
+                "image_path": "htdocs/captures\\session_20241103_215157\\captured_frame_9.jpg",
+                "timestamp": 1730688727.8066533
+            }
+        ]
+    }
+]
